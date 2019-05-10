@@ -1,8 +1,10 @@
 % Thomas R. Shannon, Fei Wang, Jose Puglisi, Christopher Weber, Donald M. Bers
 % "A Mathematical Treatment of Integrated Ca Dynamics Within the Ventricular Myocyte",
-% Biophys J., 87:3351-3371 (2004).
+% Biophys J. 2004 Nov;87(5):3351-71.
 
-% Note: correction of J_CaB_cytosol (4 Aug 2015, SM)
+% Note:
+% correction in Ito as described in Erratum in Biophys J. 2012 Apr 18;102(8):1996-2001
+% correction of J_CaB_cytosol (4 Aug 2015, SM)
 
 function output = rabbit()
 
